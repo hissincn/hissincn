@@ -10,10 +10,7 @@
 
 
 ### 丢人现眼🤔
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hissincn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hissincn)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hissincn&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=hissincn&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hissincn)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
